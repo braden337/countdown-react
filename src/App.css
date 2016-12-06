@@ -1,0 +1,11 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+h1 {
+  font-size: 4em;
+}
+
+#time {
+  background-color: #000;
+  color: white;
+  margin-bottom: 1em;
+}
